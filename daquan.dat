@@ -1,4 +1,4 @@
-中国河南,#genre#
+中国河南频道,#genre#
 CCTV1-综合,http://222.142.70.252:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV2-财经,http://222.142.70.252:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV3-综艺,http://222.142.70.252:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -103,7 +103,7 @@ CCTV15-音乐,http://222.142.70.252:9901/tsfile/live/0015_1.m3u8?key=txiptv&play
 睛彩中原,https://dd.ddzb.fun/php/hntv.php?id=jczy
 移动戏曲,https://dd.ddzb.fun/php/hntv.php?id=ydxj
 
-IPV6频道,#genre#
+国军ipv6频道,#genre#
 CCTV1,http://php.jdshipin.com/TVOD/gsyd.php?id=9900000501
 CCTV2,http://php.jdshipin.com/TVOD/gsyd.php?id=9900000502
 CCTV3,http://php.jdshipin.com/TVOD/gsyd.php?id=9900000003
@@ -629,7 +629,7 @@ CCTV17,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000006000268004/1.m3
 深圳卫视,http://[2409:8087:74d9:21::6]/270000001322/69900158041111100000002140/index.m3u8
 深圳卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226510/index.m3u8
 
-甘肃lPV6,#genre#
+甘肃ipv6备用,#genre#
 CCTV1,http://[2409:8087:74d9:21::6]/270000001128/9900000001/index.m3u8
 CCTV1,http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000004000002226/1.m3u8
 CCTV1,http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000001000004953/1.m3u8
@@ -700,45 +700,8 @@ NewTV超级综艺,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000006000
 NewTV金牌综艺,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010086/1.m3u8
 NewTV金牌综艺,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000004000026167/1.m3u8
 
-CIBN影院,#genre#
-CIBN院线大片,http://zby.xjqxz.top/zh06/live.m3u8
-经典电影台,http://ali.hlspull.yximgs.com/live/asdfg978707232.flv
-星光视界频道,http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
-经典武侠,http://159.75.85.63:35455/douyu/338759
-经典都是,http://ali.hlspull.yximgs.com/live/asdfg32619.flv
-经典台,http://ali.hlspull.yximgs.com/live/asdfg6899366.flv
-经典乡村,http://ali.hlspull.yximgs.com/live/asdfg863678266.flv
-香港功夫台,http://huanqiuzhibo.cn/manifest/douyu.php?id=9548850
-重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
-重温经典,http://36.108.172.237:10097/stream/channelid/1129822714
-YMG未来频道,http://l.cztvcloud.com/channels/lantian/SXyuhang3/720p.m3u8
-北京IPTV淘电影,http://39.134.135.81/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EXOsrWMA-UCdUl1hQSR9EKw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
-HQNetRO 4K,http://tvproeuropa1.com:80/Laurentiu_Anghel/bEey4j7eh9/276363
-HDNetRO 4K,http://tvproeuropa1.com:80/Laurentiu_Anghel/bEey4j7eh9/276361
-HBO RO 4K,http://tvproeuropa1.com:80/Laurentiu_Anghel/bEey4j7eh9/216179
- 黃金華劇臺,http://158.247.232.58:29191/stream/mytv/tvbhjhj/master.m3u8
-  美亞電影臺,http://149.28.150.229:29191/stream/mytv/mydy/master.m3u8
-CHC动作电影,http://www.wpfhome.cn:5555/udp/235.254.199.247:7980
-亚洲卫视,https://p2hs.vzan.com/slowlive/821481626725612417/live.m3u8?zbid=2046370057&tpid=330913109&type=0
-吃米滴虫,http://maomao.kandiantv.cn/douyu1.php?id=263824
-峨眉电影,http://218.89.240.144:59901/tsfile/live/1011_1.m3u8
-电影频道1,http://zby.xjqxz.top/zh01/live.m3u8
-电影频道3,http://zby.xjqxz.top/zh03/live.m3u8
-国产1,http://zby.xjqxz.top/live18/live.m3u8
-007轮播,http://zby.xjqxz.top/live5/live.m3u8
-武进生活频道,https://live.wjyanghu.com/live/CH2.m3u8
-武进新闻频道,https://live.wjyanghu.com/live/CH1.m3u8
-番薯电视,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8?blog.ntnas.top
-功夫,https://ukzy.ukubf4.com/20220407/j3bjFWpb/index.m3u8
-唐伯虎点秋香,https://ukzy.ukubf4.com/20220407/wnsgZzX9/index.m3u8
-鹿鼎记2之神龙教,https://ukzy.ukubf4.com/20220404/gfSdtuvX/index.m3u8
-咖喱辣椒,https://ukzy.ukubf4.com/20220407/2mftU655/index.m3u8
-千王之王,https://ukzy.ukubf4.com/20220331/8qlDdjip/index.m3u8
-97家有喜事,https://ukzy.ukubf4.com/20220407/Ue4rNnif/index.m3u8
-风雨同路,https://ukzy.ukubf4.com/20220408/cy7KQ4it/index.m3u8
-影视大片1,http://tc-tct.douyucdn2.cn/dyliveflv1a/20415rnWbjg6Ex1K_2000.flv?wsAuth=3b64dd17d293b133c58bda21e3147e5b&token=cpn-androidmpro-0-20415-b6774b3b3249db1768f0ac048c5ed218ac54e1f82b04b2bf&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
 
-秒看,#genre#
+央视频道秒看,#genre#
 CCTV1,http://110.40.39.202:66/live/gdlt.php?id=22g52dt
 CCTV2,http://110.40.39.202:66/live/gdlt.php?id=32a81b2
 CCTV3,http://110.40.39.202:66/live/gdlt.php?id=42c3cd4
@@ -799,9 +762,8 @@ CCTV17,http://110.40.39.202:66/live/gdlt.php?id=u192g1h
 嘉佳卡通,http://110.40.39.202:66/live/gdlt.php?id=7h82c7d
 CCTV6,http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2013693901/timeshift.m3u8?delay=0
 
-凤凰AKTV,#genre#
+港澳凤凰卫视,#genre#
 凤凰卫视频道,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
-凤凰资讯频道,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 iHOT爱悬疑,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000036/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000036&IASHttpSessionId=OTT19019320240419154124000281
 Plus综合AKtv,http://aktv.top/AKTV/live/aktv/tvbplus/AKTV.m3u8
 pₒₚc电影AKtv,http://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
@@ -832,29 +794,8 @@ Now星影台,http://aktv.top/AKTV/live/aktv/now/AKTV.m3u8
 寰宇新聞台,http://aktv.top/AKTV/live/aktv/null-9/AKTV.m3u8
 星河台,http://aktv.top/AKTV/live/aktv/null-15/AKTV.m3u8
 
-北方广电,#genre#
-CCTV-1HD,http://120.76.248.139/live/bfgd/4200000484.m3u8
-CCTV-1HD,http://120.76.248.139/live/bfgd/4200000488.m3u8
-CCTV-1HD,http://120.76.248.139/live/bfgd/4200000489.m3u8
-CCTV-1HD,http://120.76.248.139/live/bfgd/4200000201.m3u8
-CCTV-2HD,http://120.76.248.139/live/bfgd/4200000061.m3u8
-CCTV-3HD,http://120.76.248.139/live/bfgd/4200000062.m3u8
-CCTV-4HD,http://120.76.248.139/live/bfgd/4200000063.m3u8
-CCTV-5HD,http://120.76.248.139/live/bfgd/4200000064.m3u8
-CCTV-5+HD,http://120.76.248.139/live/bfgd/4200000246.m3u8
-CCTV-6HD,http://120.76.248.139/live/bfgd/4200000065.m3u8
-CCTV-7HD,http://120.76.248.139/live/bfgd/4200000127.m3u8
-CCTV-8HD,http://120.76.248.139/live/bfgd/4200000066.m3u8
-CCTV-9HD,http://120.76.248.139/live/bfgd/4200000128.m3u8
-CCTV-10HD,http://120.76.248.139/live/bfgd/4200000129.m3u8
-CCTV-11HD,http://120.76.248.139/live/bfgd/4200000130.m3u8
-CCTV-12HD,http://120.76.248.139/live/bfgd/4200000131.m3u8
-CCTV-13HD,http://120.76.248.139/live/bfgd/4200000067.m3u8
-CCTV-14HD,http://120.76.248.139/live/bfgd/4200000132.m3u8
-CCTV-15HD,http://120.76.248.139/live/bfgd/4200000133.m3u8
-CCTV-17HD,http://120.76.248.139/live/bfgd/4200000204.m3u8
 
-咪咕频道,#genre#
+央视咪咕频道,#genre#
 CCTV1,http://211.101.247.19:6699/api/migu.php?type=hls&url=live-cctv1
 CCTV2,http://211.101.247.19:6699/api/migu.php?type=hls&url=live-cctv2
 CCTV3,http://211.101.247.19:6699/api/migu.php?type=hls&url=live-cctv3
@@ -890,7 +831,7 @@ CCTV13,http://58.32.43.246:4022/udp/239.45.1.198:5140
 CCTV14,http://58.32.43.246:4022/udp/239.45.3.23:5140
 CCTV15,http://58.32.43.246:4022/udp/239.45.1.200:5140
 
-咪咕直播,#genre#
+电竞体育直播,#genre#
 咪咕直播-11,http://[2409:8087:1a01:df::402a]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226469/index.m3u8
 咪咕直播-12,http://[2409:8087:1a01:df::4046]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8
 咪咕直播-34,http://[2409:8087:1a01:df::4033]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226398/index.m3u8
@@ -929,7 +870,7 @@ CCTV15,http://58.32.43.246:4022/udp/239.45.1.200:5140
 咪咕直播-1-4K,http://111.13.111.242/000000001000/3000000010000005180/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
 咪咕直播-2-4K,http://111.13.111.242/000000001000/3000000010000015686/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
 
-天津联通,#genre#
+天津联通直播,#genre#
 CCTV1,http://zisong2014.oicp.net:4022/udp/225.1.1.12:5002
 CCTV1HD,http://zisong2014.oicp.net:4022/udp/225.1.1.120:5002
 CCTV2,http://zisong2014.oicp.net:4022/udp/225.1.1.13:5002
@@ -2979,7 +2920,6 @@ TUOK肖恩,http://www.52sw.top:678/play/douyu.php?id=9392433
 
 DJ音乐欣赏,#genre#
 skart-短裙1,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgi5Ke4wUoy6vqTg.mp4
-SING女团 风陵渡口,https://vdse.bdstatic.com//a499dfbec34060ce0f380ea789446f07.mp4
 「韩」DJ Soda Remix 2021,https://vd3.bdstatic.com/mda-mev3hw0htz28h5wn/1080p/cae_h264/1622343504467773766/mda-mev3hw0htz28h5wn.mp4
 「韩」佳仁-ParadiseLost,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgy9j64wUogPOGEQ.mp4
 「韩」朴孝敏–SKETCH,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAguq6r7gUouOyF4gE.mp4
